@@ -20,3 +20,4 @@ A princípio, o projeto será desenvolvido com as seguintes tecnologias:
     - back-end: java, spring boot.
     - banco de dados: postgresql ou mysql
 
+OBS: o desenvolvimento do projeto poderá ser acompanhado em um repositório público no github: https://github.com/peesousa.
